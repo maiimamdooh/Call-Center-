@@ -13,10 +13,10 @@ Possible KPIs include :
 ## Contents :
 
 - [Datasource](https://github.com/maiimamdooh/Call-Center-Dashboard/blob/main/01%20Call-Center-Dataset%20(1).xlsx)
-- [Data prepration]()
-- [Data Analysis]()
-- [Dashboard]()
-- [Insights]()
+- [Data prepration](https://github.com/maiimamdooh/Call-Center-Dashboard/tree/main#data-preparation)
+- [Data Analysis](https://github.com/maiimamdooh/Call-Center-Dashboard/tree/main#data-analysis-dax-)
+- [Dashboard](https://github.com/maiimamdooh/Call-Center-Dashboard/tree/main#data-visualization-dashboard-)
+- [Insights](https://github.com/maiimamdooh/Call-Center-Dashboard/tree/main#insights-)
 
 ## Datasource :
 
