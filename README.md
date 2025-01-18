@@ -86,9 +86,9 @@ Data visualization for the data analysis was done in Microsoft Power BI Desktop:
 
 Dashboard: [View Dashboard](https://github.com/maiimamdooh/Call-Center-Dashboard/blob/main/call%20center%20dashboard.pbix) 
 
-| ![Overview](https://github.com/user-attachments/assets/d1a9f462-8797-4ee8-bf14-0d2c02db95e6) 
+ ![Overview](https://github.com/user-attachments/assets/d1a9f462-8797-4ee8-bf14-0d2c02db95e6) 
 
-| ![agent performance](https://github.com/user-attachments/assets/fbdb2ed3-7881-405c-9c79-373454214965) 
+![agent performance](https://github.com/user-attachments/assets/fbdb2ed3-7881-405c-9c79-373454214965) 
 
 ## Insights :
 
